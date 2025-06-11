@@ -35,7 +35,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/sthomas1618/react-crane.git"
+    "url": "git://github.com/civitaslearning/react-crane.git"
   },
   "peerDependencies": {
     "react": "^0.14.9 || ^15.3.0 || ^16.0|| ^17.0.0",
