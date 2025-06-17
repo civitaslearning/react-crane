@@ -1,5 +1,5 @@
 {
-  "name": "react-crane",
+  "name": "cs-react-crane",
   "version": "0.32.2",
   "description": "A React Components Library",
   "source": "src/index.js",
@@ -31,7 +31,7 @@
     "react",
     "react-component"
   ],
-  "author": "Stephen Thomas",
+  "author": "Civitas Learning",
   "license": "MIT",
   "repository": {
     "type": "git",
